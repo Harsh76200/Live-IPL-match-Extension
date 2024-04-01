@@ -1,3 +1,3 @@
 ## Live-IPL-match-Extension
 
-This extension will show you updates of IPL Matches.
+This extension will show you Live updates of IPL Matches.
