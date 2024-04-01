@@ -1,1 +1,3 @@
-# Live-IPL-match-Extension
+## Live-IPL-match-Extension
+
+This extension will show you updates of IPL Matches.
