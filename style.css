@@ -1,3 +1,39 @@
 body {
     min-width: 300px;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+li {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Style for odd-numbered list items */
+li:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+/* Hover effect */
+li:hover {
+    background-color: #e0e0e0;
+    cursor: pointer;
 }
